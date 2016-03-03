@@ -1,0 +1,81 @@
+# Written by MakeHuman 1.0.2
+version v1.0.2
+tags Desktop
+face mouth-upperlip-width-min-max 0.252000
+face mouth-cupidsbow-width-min-max 0.290000
+face nose-scale-vert-incr-decr -0.278000
+face nose-trans-depth-forward-backward -0.212000
+face neck-trans-depth-forward-backward -0.174000
+face head-diamond 0.084000
+face head-trans-in-out -0.046000
+face mouth-angles-up-down -0.122000
+face chin-bones-in-out -1.000000
+face mouth-trans-forward-backward -0.122000
+face mouth-trans-in-out -0.046000
+face eyebrows-trans-depth-less-more -0.638000
+face nose-scale-depth-incr-decr -0.020000
+face forehead-temple-in-out -0.084000
+face forehead-trans-depth-forward-backward -0.148000
+face mouth-upperlip-middle-up-down 0.446000
+face nose-volume-potato-point 0.148000
+face nose-scale-horiz-incr-decr 0.536000
+face neck-scale-depth-less-more -0.638000
+face eyebrows-angle-up-down -0.070000
+face nose-trans-horiz-in-out 0.096000
+face head-trans-down-up 0.174000
+face mouth-cupidsbow-decr-incr -1.000000
+face l-cheek-volume-deflate-inflate -0.458000
+face eyebrows-trans-vert-less-more -0.626000
+face mouth-trans-up-down -0.238000
+face l-cheek-inner-deflate-inflate -1.000000
+face head-scale-vert-more-less -0.252000
+face head-age-less-more -0.406000
+face forehead-scale-vert-less-more 0.096000
+face mouth-upperlip-volume-deflate-inflate -0.446000
+face chin-prognathism-less-more -0.252000
+face nose-curve-convex-concave 0.148000
+face head-scale-horiz-less-more 0.006000
+face nose-flaring-decr-incr 0.238000
+face nose-compression-compress-uncompress 0.496000
+face mouth-lowerlip-ext-up-down 0.084000
+face r-cheek-inner-deflate-inflate -1.000000
+face head-angle-in-out -0.070000
+face nose-point-width-less-more 0.562000
+face nose-point-up-down 0.136000
+face nose-nostrils-angle-up-down 0.652000
+face nose-septumangle-decr-incr -0.238000
+face mouth-lowerlip-middle-up-down -1.000000
+face nose-height-min-max 0.174000
+face r-cheek-volume-deflate-inflate -0.458000
+face mouth-philtrum-volume-increase-decrease -1.000000
+face head-invertedtriangular 0.129000
+face nose-greek-moregreek-lessgreek 0.780000
+face nose-trans-vert-up-down 0.020000
+face nose-hump-morehump-lesshump -0.020000
+face head-rectangular 0.174000
+face forehead-nubian-less-more -0.032000
+teeth Teeth_Base 8ed08ea6-e3ad-4d36-b8e7-c4e3836e66b7
+hair mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95
+eyebrows Eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes Tshirt_short 553a8752-3213-4284-b790-6390ccafb8f8
+clothes jeans01 faa58a00-05db-4a53-a3a6-72af1cec2053
+clothes classic_shoes_lres 454af8ff-87e1-41b9-a84f-352f3b398082
+clothesHideFaces True
+gendered BreastFirmness 0.500000
+gendered BreastSize 0.500000
+macro Weight 0.342000
+macro Gender 1.000000
+macro Age 0.116000
+macro Height 0.445000
+macro Asian 0.000000
+macro African 0.000000
+macro Caucasian 1.000000
+macro Muscle 0.174000
+macro BodyProportions 0.439000
+background enabled False
+skinMaterial skins/default.mhmat
+material mhair01 710b4c8c-d34e-47a8-9d1d-e3f623bb8d95 hair/mhair01/materials/male01_black.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/green.mhmat
+skeleton game.json
+subdivide False
